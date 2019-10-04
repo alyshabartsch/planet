@@ -1,3 +1,4 @@
 Mars is red.
 Mars has two moons.
 Mars has martians.
+There may be water on Mars.
